@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#displayRes{
+    height: 40px;
+    background-color: #fff;
+}
